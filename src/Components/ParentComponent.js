@@ -11,7 +11,7 @@ export default function ParentComponent() {
         <div onClick = {handleParentClick}>
             ParentComponent
             <ChildComponent />
-            
+            <button>Click here</button>
         </div>
         </>
     )
